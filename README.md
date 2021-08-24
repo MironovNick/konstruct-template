@@ -1,2 +1,1 @@
-# konstruct-template
-responsive layout
+https://mironovnick.github.io/konstruct-template/
