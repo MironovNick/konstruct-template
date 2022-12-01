@@ -1,1 +1,1 @@
-https://mironovnick.github.io/konstruct-template/
+https://mironovnick.github.io/loremipsum-test-task/
